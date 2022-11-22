@@ -1,0 +1,8 @@
+home.lab.                 IN  SOA     dns.home.lab. coredns.home.lab. 2015082541 7200 3600 1209600 3600
+dns.home.lab.             IN  A       192.168.1.111
+harvester.home.lab.       IN  A       192.168.1.222
+ui-harvester.home.lab.    IN  A       192.168.1.223
+stormwind.home.lab.       IN  A       192.168.1.112
+dalaran.home.lab.         IN  CNAME   dns.home.lab.
+rancher.home.lab.         IN  CNAME   dns.home.lab.
+omada.home.lab.           IN  CNAME   dns.home.lab.

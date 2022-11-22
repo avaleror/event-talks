@@ -1,0 +1,11 @@
+.:53 {
+    forward . 8.8.8.8 1.1.1.1
+    log
+    errors
+}
+
+home.lab:53 {
+    file /root/homelab.db
+    log
+    errors
+}
