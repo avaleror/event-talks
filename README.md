@@ -13,6 +13,8 @@ Profile:
 
 - Traefik Labs webinar 2022 - https://youtu.be/Lu60U2X7SYI
 
+- Edge, Are you ready? - SUSECON 2022 - https://www.youtube.com/watch?v=iJYcsg9BaBU
+
 - KCD Spain 2022 - https://youtu.be/ojD5EYpV-YM
 
 
