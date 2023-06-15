@@ -11,7 +11,7 @@ Profile:
   
 - OpenShift Coffee Break 2021 - https://youtu.be/KT5HlRpp64g
 
-- Traefik Labs webinar - https://youtu.be/Lu60U2X7SYI
+- Traefik Labs webinar 2022 - https://youtu.be/Lu60U2X7SYI
 
 - KCD Spain 2022 - https://youtu.be/ojD5EYpV-YM
 
