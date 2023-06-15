@@ -7,11 +7,13 @@ Profile:
 
 ## Youtube links  
 
-- DevConf 2021: https://youtu.be/8L7QTC1R3rg
+- DevConf 2021 - https://youtu.be/8L7QTC1R3rg
   
-- OpenShift Coffee Break 2021: https://youtu.be/KT5HlRpp64g
+- OpenShift Coffee Break 2021 - https://youtu.be/KT5HlRpp64g
 
-- Traefik Labs webinar: https://youtu.be/Lu60U2X7SYI
+- Traefik Labs webinar - https://youtu.be/Lu60U2X7SYI
+
+- KCD Spain 2022 - https://youtu.be/ojD5EYpV-YM
 
 
 ## Conferences Links & profiles
