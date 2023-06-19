@@ -24,7 +24,7 @@ Welcome to my speaker profile! This repository serves as a comprehensive resourc
 
 - Open Infrastructure Summit 2019 Shanghai - It all started with a little Playbook
     - Speakers: Raúl Mahiques & Andrés Valero
-    - Session Recording: https://www.openstack.org/videos/summits/shanghai-2019/it-all-started-with-a-little-playbook
+    - Session recording: https://www.openstack.org/videos/summits/shanghai-2019/it-all-started-with-a-little-playbook
 
 ### 2021
 
@@ -45,13 +45,15 @@ Welcome to my speaker profile! This repository serves as a comprehensive resourc
 - Webinar - Traefik Labs - Build a Lightweight Private Cloud with Harvester, K3s, and Traefik 
     - Speaker: Andrés Valero
     - https://info.traefik.io/build-a-lightweight-private-cloud-with-harvester-k3s-traefik-proxy
+    - Session recording: https://youtu.be/Lu60U2X7SYI
 
 - SUSECON 2022 - Edge, are you ready?
     - Speakers: Juan Herrera & Andrés Valero
+    - Session recording: https://youtu.be/iJYcsg9BaBU
 
 - KCD Spain - Cómo implementar un "Cloud Native Data Center in a Box" (Spanish)
     - Speaker: Andrés Valero
-    - Session Recording - https://youtu.be/ojD5EYpV-YM (Spanish) 
+    - Session recording - https://youtu.be/ojD5EYpV-YM (Spanish) 
 
 ### 2023
 
