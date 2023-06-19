@@ -1,8 +1,8 @@
 # event-talks
 
-Repo to storage recording, slides and material for talks I have delivered or helped to deliver
+## Speaker Profile
 
-## Profile:
+Welcome to my speaker profile! This repository serves as a comprehensive resource for my professional information and work, making it easier for event organizers to evaluate my suitability as a speaker. Here, you will find a collection of slides, recordings, and materials that I have delivered, created, or contributed to.
 
 ### Professional info
 
@@ -110,3 +110,8 @@ Repo to storage recording, slides and material for talks I have delivered or hel
 - https://opennebula.io/webinar/kubernetes/
 
 - https://app.swapcard.com/event/opennebulacon2023/planning/UGxhbm5pbmdfMTM2MTY4Mg==
+
+## Contact Me
+If you have any questions or would like to discuss potential speaking engagements, please feel free to reach out to me via email: valero.aj@gmail.com.
+
+Thank you for considering me as a speaker. I look forward to the opportunity of sharing my knowledge and insights at your event!
