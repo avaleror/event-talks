@@ -4,6 +4,9 @@
 
 Welcome to my speaker profile! This repository serves as a comprehensive resource for my professional information and work, making it easier for event organizers to evaluate my suitability as a speaker. Here, you will find a collection of slides, recordings, and materials that I have delivered, created, or contributed to.
 
+![Me](/media/Andres_Valero.jpg)
+
+
 ### Professional info
 
 - https://www.linkedin.com/in/avaleror/ 
