@@ -26,6 +26,11 @@ Welcome to my speaker profile! This repository serves as a comprehensive resourc
     - Speakers: Raúl Mahiques & Andrés Valero
     - Session recording: https://www.openstack.org/videos/summits/shanghai-2019/it-all-started-with-a-little-playbook
 
+### 2020
+
+- Meetup - Emerging Tech Valencia - The Rise of Kubernetes Operators
+    - Speakers: Mario Vázquez & Andrés Valero
+
 ### 2021
 
 - Webinar Paradigma Digital - OpenShift Multi-Cluster Management with Red Hat Advanced Cluster Management for Kubernetes (Spanish)
