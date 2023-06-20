@@ -30,6 +30,7 @@ Welcome to my speaker profile! This repository serves as a comprehensive resourc
 
 - Meetup - Emerging Tech Valencia - The Rise of Kubernetes Operators
     - Speakers: Mario Vázquez & Andrés Valero
+    - https://www.meetup.com/emerging-tech-valencia/events/267516089/
 
 ### 2021
 
