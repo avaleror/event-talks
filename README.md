@@ -32,6 +32,10 @@ Welcome to my speaker profile! This repository serves as a comprehensive resourc
     - Speakers: Mario Vázquez & Andrés Valero
     - https://www.meetup.com/emerging-tech-valencia/events/267516089/
 
+- Webinar (Red Hat) - Cómo mejorar la gestión híbrida multicloud y multicluster (Spanish)
+    - Speakers: Pablo Ráez & Andrés Valero
+    - https://youtu.be/HMEa6V7MRXE (Spanish)
+
 ### 2021
 
 - Webinar Paradigma Digital - OpenShift Multi-Cluster Management with Red Hat Advanced Cluster Management for Kubernetes (Spanish)
@@ -69,6 +73,7 @@ Welcome to my speaker profile! This repository serves as a comprehensive resourc
 
 - OpenNebula Con - Deploying Kubernetes on an OpenNebula Multi-Cloud
     - Speakers: Marco Mancini, Jesús Macias & Andrés Valero
+    - https://youtu.be/XdZoye1qX0g
 
 ## Blog Posts
 
@@ -90,23 +95,6 @@ Welcome to my speaker profile! This repository serves as a comprehensive resourc
 
 - https://www.suse.com/c/rancher_blog/getting-hands-on-with-harvester-hci/
 - https://www.suse.com/c/rancher_blog/managing-harvester-with-terraform/
-
-## Youtube links  
-
-- Open Infra Summit Shanghai 2019 - https://www.openstack.org/videos/summits/shanghai-2019/it-all-started-with-a-little-playbook
-
-- DevConf 2021 - https://youtu.be/8L7QTC1R3rg
-  
-- OpenShift Coffee Break 2021 - https://youtu.be/KT5HlRpp64g
-
-- Traefik Labs webinar 2022 - https://youtu.be/Lu60U2X7SYI
-
-- Edge, Are you ready? - SUSECON 2022 - https://www.youtube.com/watch?v=iJYcsg9BaBU
-
-- KCD Spain 2022 - https://youtu.be/ojD5EYpV-YM
-
-- OpenNebula Webinar - https://youtu.be/Ds791l93hAs
-
 
 ## Conferences Links & profiles
 
