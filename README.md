@@ -32,9 +32,9 @@ Welcome to my speaker profile! This repository serves as a comprehensive resourc
     - Speakers: Mario Vázquez & Andrés Valero
     - https://www.meetup.com/emerging-tech-valencia/events/267516089/
 
-- Webinar (Red Hat) - Cómo mejorar la gestión híbrida multicloud y multicluster (Spanish)
-    - Speakers: Pablo Ráez & Andrés Valero
-    - https://youtu.be/HMEa6V7MRXE (Spanish)
+- Red Hat Forum Spain - Challenges of the multi-cluster management (Spanish)
+    - Speakers: Mario Vázquez & Andrés Valero
+    - https://youtu.be/xXb5LbICNn4 (Spanish)
 
 ### 2021
 
@@ -49,6 +49,10 @@ Welcome to my speaker profile! This repository serves as a comprehensive resourc
 - OpenShift Coffee Break - Hybrid Cloud Automation with Ansible and RHACM 
     - Spaekers: Faz Sadeghi & Andrés Valero
     - Session recording - https://youtu.be/KT5HlRpp64g
+
+- Webinar (Red Hat) - Cómo mejorar la gestión híbrida multicloud y multicluster (Spanish)
+    - Speakers: Pablo Ráez & Andrés Valero
+    - https://youtu.be/HMEa6V7MRXE (Spanish)
 
 ### 2022
 
