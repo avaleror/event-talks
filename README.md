@@ -12,7 +12,7 @@ Welcome to my speaker profile! This repository serves as a comprehensive resourc
 - https://www.linkedin.com/in/avaleror/ 
 
 ### About me..
-"Andrés Valero has had a longstanding passion for open source software. Despite this, he did not decide to turn his hobby into a career until not long ago. Prior to entering the IT field, Andrés spent many years working as a salesman. He eventually decided to change careers and pursued a role as a consultant in the IT industry. From there, he progressed to a Solutions Architect position, where he worked with management and cloud-native technologies. Currently, Andrés is employed at SUSE as a Technical Marketing Manager for cloud-native technologies. In addition to his work at SUSE, Andrés has also participated in a number of tech events around the world, such as the Red Hat Summit, Kubernetes Community Days Spain, and the Open Infrastructure Summit 2019 in Shanghai."
+"Andrés Valero has had a longstanding passion for open source software. Despite this, he did not decide to turn his hobby into a career until not long ago. Prior to entering the IT field, Andrés spent many years working as a salesman. He eventually decided to change careers and pursued a role as a consultant in the IT industry. From there, he progressed to a Solutions Architect position, where he worked with management and cloud-native technologies. Currently, Andrés is employed at SUSE as a Technical Marketing Manager for edge and cloud-native technologies. In addition to his work at SUSE, Andrés has also participated in a number of tech events around the world, such as the Red Hat Summit, Kubernetes Community Days Spain, and the Open Infrastructure Summit 2019 in Shanghai."
 
 ## Talks
 
