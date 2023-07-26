@@ -85,6 +85,10 @@ Welcome to my speaker profile! This repository serves as a comprehensive resourc
 
 - https://www.suse.com/c/rancher_blog/my-first-impressions-with-suse-rancher-kubernetes-projects/
 
+### Linux
+
+- https://www.suse.com/c/opensuse-tumbleweed-the-stable-rolling-release-linux-distribution/ 
+
 ### Kubernetes Management
 
 - https://www.suse.com/c/rancher_blog/how-to-simplify-your-kubernetes-adoption-using-rancher/
@@ -99,6 +103,10 @@ Welcome to my speaker profile! This repository serves as a comprehensive resourc
 
 - https://www.suse.com/c/rancher_blog/getting-hands-on-with-harvester-hci/
 - https://www.suse.com/c/rancher_blog/managing-harvester-with-terraform/
+
+### Edge Computing and IoT
+
+
 
 ## Conferences Links & profiles
 
