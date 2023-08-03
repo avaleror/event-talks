@@ -106,7 +106,7 @@ Welcome to my speaker profile! This repository serves as a comprehensive resourc
 
 ### Edge Computing and IoT
 
-
+- https://www.suse.com/c/edge-computing-empowering-real-time-data-processing-and-analysis/
 
 ## Conferences Links & profiles
 
