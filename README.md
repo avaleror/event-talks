@@ -79,6 +79,10 @@ Welcome to my speaker profile! This repository serves as a comprehensive resourc
     - Speakers: Marco Mancini, Jesús Macias & Andrés Valero
     - https://youtu.be/XdZoye1qX0g
 
+- KCD Spain - IoT at the Edge with K3s and Akri
+    - Speakers: Andrés Valero
+    - 
+
 ## Blog Posts
 
 ### Open Source - Opinion
@@ -107,6 +111,7 @@ Welcome to my speaker profile! This repository serves as a comprehensive resourc
 ### Edge Computing and IoT
 
 - https://www.suse.com/c/edge-computing-empowering-real-time-data-processing-and-analysis/
+- https://www.suse.com/c/revolutionizing-industries-unleashing-the-power-of-industrial-iot-and-edge-computing/
 
 ## Conferences Links & profiles
 
