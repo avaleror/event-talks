@@ -81,7 +81,7 @@ Welcome to my speaker profile! This repository serves as a comprehensive resourc
 
 - KCD Spain - IoT at the Edge with K3s and Akri
     - Speakers: Andrés Valero
-    - 
+    - https://youtu.be/7e_b2GuKTso?si=PfD_4ZjON5IA7V8-
 
 ## Blog Posts
 
