@@ -112,6 +112,8 @@ Welcome to my speaker profile! This repository serves as a comprehensive resourc
 
 - https://www.suse.com/c/edge-computing-empowering-real-time-data-processing-and-analysis/
 - https://www.suse.com/c/revolutionizing-industries-unleashing-the-power-of-industrial-iot-and-edge-computing/
+- https://www.suse.com/c/exploring-suse-edge-3-0-whats-new/
+- https://www.suse.com/c/whats-new-in-suse-atip-3-0/ 
 
 ## Conferences Links & profiles
 
@@ -126,6 +128,10 @@ Welcome to my speaker profile! This repository serves as a comprehensive resourc
 - https://opennebula.io/webinar/kubernetes/
 
 - https://app.swapcard.com/event/opennebulacon2023/planning/UGxhbm5pbmdfMTM2MTY4Mg==
+
+- https://propuestas.eslib.re/2024/charlas/desplegar-gestionar-clusters-kubernetes-rancher-cluster-api
+
+- https://propuestas.eslib.re/2024/charlas/gestionando-linux-edge-con-sin-kubernetes
 
 ## Contact Me
 If you have any questions or would like to discuss potential speaking engagements, please feel free to reach out to me via email: valero.aj@gmail.com.
