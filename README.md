@@ -1,4 +1,4 @@
-# event-talks
+# Event-talks
 
 ## Speaker Profile
 
@@ -7,12 +7,16 @@ Welcome to my speaker profile! This repository serves as a comprehensive resourc
 ![Me](/media/Andres_Valero.jpg)
 
 
+### Presentation video
+
+
 ### Professional info
 
 - https://www.linkedin.com/in/avaleror/ 
 
 ### About me..
-"Andrés Valero has had a longstanding passion for open source software. Despite this, he did not decide to turn his hobby into a career until not long ago. Prior to entering the IT field, Andrés spent many years working as a salesman. He eventually decided to change careers and pursued a role as a consultant in the IT industry. From there, he progressed to a Solutions Architect position, where he worked with management and cloud-native technologies. Currently, Andrés is employed at SUSE as a Technical Marketing Manager for edge and cloud-native technologies. In addition to his work at SUSE, Andrés has also participated in a number of tech events around the world, such as the Red Hat Summit, Kubernetes Community Days Spain, and the Open Infrastructure Summit 2019 in Shanghai."
+
+"I had a longstanding passion for open source software. Despite this, I did not decide to turn his hobby into a career until I was more than 30 years old. Prior to entering the IT field, I spent many years working as a salesman in a mall. Eventually I decided to change careers and pursued a role as a consultant in the IT industry at Capgemini. From there, I progressed to a Solutions Architect position in Red Hat, where I worked with management and cloud-native technologies. Currently, I'm employed at SUSE as a Technical Marketing Manager for edge and cloud-native technologies. In addition to my different roles and jobs, I have participated as a speaker or instructor in a number of tech events around the world, such as the Red Hat Summit, Kubernetes Community Days, and the Open Infrastructure Summit."
 
 ## Talks
 
@@ -82,6 +86,21 @@ Welcome to my speaker profile! This repository serves as a comprehensive resourc
 - KCD Spain - IoT at the Edge with K3s and Akri
     - Speakers: Andrés Valero
     - https://youtu.be/7e_b2GuKTso?si=PfD_4ZjON5IA7V8-
+
+### 2024
+
+- esLibre 2024 - Gestionar clusters de Kubernetes con Rancher y CAPI (Spanish)
+    - Speaker: Andrés Valero
+    - Session recording 
+
+- esLibre 2024 - Linux y Edge para todos, con y sin Kubernetes
+    - Speaker: Andrés Valero
+    - Session recording 
+
+- OpenNebula Con - 
+    - Speakers: 
+    - Session Recording
+
 
 ## Blog Posts
 
