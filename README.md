@@ -97,9 +97,15 @@ Welcome to my speaker profile! This repository serves as a comprehensive resourc
     - Speaker: Andrés Valero
     - Session recording 
 
-- OpenNebula Con - 
-    - Speakers: 
-    - Session Recording
+- OpenNebula Con - Deploying Multi-Cluster Kubernetes
+    - Speakers: Andrés Valero, Fulvio Risso,  Mario Fahlandt.
+    - Session Recording: https://www.youtube.com/watch?v=WsaFw3deJWA&list=PLcZ9b-7zssMftbpa_mx1ZXWm1_7LTYuJI&index=9
+      
+### 2025
+
+- Standing Out in a Competitive Dev Tools Landscape | Draft.dev Webinar Series
+    - Speakers: Andrés Valero, Trent Blakely    
+    - Session Recording: https://www.youtube.com/watch?v=s3QJsF2frF0
 
 
 ## Blog Posts
@@ -132,24 +138,19 @@ Welcome to my speaker profile! This repository serves as a comprehensive resourc
 - https://www.suse.com/c/edge-computing-empowering-real-time-data-processing-and-analysis/
 - https://www.suse.com/c/revolutionizing-industries-unleashing-the-power-of-industrial-iot-and-edge-computing/
 - https://www.suse.com/c/exploring-suse-edge-3-0-whats-new/
-- https://www.suse.com/c/whats-new-in-suse-atip-3-0/ 
+- https://www.suse.com/c/whats-new-in-suse-atip-3-0/
+- https://www.suse.com/c/accelerate-telco-edge-innovation-suse-edge-3-3-unleashes-scalable-arm-power-for-5g/
+- https://www.suse.com/c/suse-edge-is-the-platform-for-retail-innovation/
 
 ## Conferences Links & profiles
 
 - https://www.openstack.org/summit/shanghai-2019/summit-schedule/global-search?t=Andres%20Valero
-
 - https://devconfcz2021.sched.com/speaker/avaleror
-
 - https://www.redhat.com/en/summit/speakers/session-archives
-
 - https://kcdspain.com/speakers/andres_valero/ 
-
 - https://opennebula.io/webinar/kubernetes/
-
 - https://app.swapcard.com/event/opennebulacon2023/planning/UGxhbm5pbmdfMTM2MTY4Mg==
-
 - https://propuestas.eslib.re/2024/charlas/desplegar-gestionar-clusters-kubernetes-rancher-cluster-api
-
 - https://propuestas.eslib.re/2024/charlas/gestionando-linux-edge-con-sin-kubernetes
 
 ## Contact Me
