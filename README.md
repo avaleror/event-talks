@@ -16,7 +16,7 @@ Welcome to my speaker profile! This repository serves as a comprehensive resourc
 
 ### About me..
 
-"I had a longstanding passion for open source software. Despite this, I did not decide to turn his hobby into a career until I was more than 30 years old. Prior to entering the IT field, I spent many years working as a salesman in a mall. Eventually I decided to change careers and pursued a role as a consultant in the IT industry at Capgemini. From there, I progressed to a Solutions Architect position in Red Hat, where I worked with management and cloud-native technologies. Currently, I'm employed at SUSE as a Technical Marketing Manager for edge and cloud-native technologies. In addition to my different roles and jobs, I have participated as a speaker or instructor in a number of tech events around the world, such as the Red Hat Summit, Kubernetes Community Days, and the Open Infrastructure Summit."
+"Focused on cloud-native modernization, Andrés has shared his insights at premier industry events like the Open Infrastructure Summit and Kubernetes Community Days. He excels at simplifying complex technologies, helping cross-functional teams bridge the gap between technical potential and business results. Whether working directly with customers or speaking on the keynote stage, Andrés is driven by a passion for making modern infrastructure accessible to everyone."
 
 ## Talks
 
