@@ -23,7 +23,7 @@ Welcome to my speaker profile! This repository serves as a comprehensive resourc
 ### 2019
 
 - Red Hat Summit 2019 - Instructor - Hands-on integrated management lab
-    - Speakers: Andrés Valero & Chris Short
+    - Speakers: Andrés Valero, Christian Jung & Chris Short
     - https://gitlab.com/redhatsummitlabs/hands-on-integrated-management-lab 
 
 - Open Infrastructure Summit 2019 Shanghai - It all started with a little Playbook
