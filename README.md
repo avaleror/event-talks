@@ -16,7 +16,7 @@ Welcome to my speaker profile! This repository serves as a comprehensive resourc
 
 ### About me..
 
-"Focused on cloud-native modernization, Andrés has shared his insights at premier industry events like the Open Infrastructure Summit and Kubernetes Community Days. He excels at simplifying complex technologies, helping cross-functional teams bridge the gap between technical potential and business results. Whether working directly with customers or speaking on the keynote stage, Andrés is driven by a passion for making modern infrastructure accessible to everyone."
+Andrés Valero is a cloud-native veteran who thrives on turning 'complex' into 'clear.' Currently Working as a Technology Advocate for Edge and Telco at SUSE, his career—stretching from Red Hat to Capgemini—has been defined by a mission to make modern infrastructure actually accessible. A seasoned speaker who has participated at events like the Open Infrastructure Summit and Red Hat Summit, Andrés specializes in helping teams look past the jargon to find the real-world value in Edge and Kubernetes. He’s driven by a simple goal: making modern infrastructure accessible and scalable for all.
 
 ## Talks
 
