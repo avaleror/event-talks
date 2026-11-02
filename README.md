@@ -29,6 +29,12 @@ Seasoned speaker at events including KubeCon, Mobile World Congress, SUSECON, Op
 
 > Slides are in the folder for each event. Click 📹 for the session recording.
 
+### 2026
+
+| Event | Title | Lang | Links |
+|---|---|---|---|
+| Cloud Native Days Norway 2026 · Bergen | Friheten i Koden: Digital Sovereignty for the Nordic Age *(with Jeroen van Erp)* | EN | [📄 Slides](https://suse-technical-marketing.github.io/cnds-norway-2026-slides/) · [💻 Repo](https://github.com/SUSE-Technical-Marketing/cnds-norway-2026-slides) · [🗒️ Details](2026-CNDS-Norway/) · 📹 Recording coming soon |
+
 ### 2025
 
 | Event | Title | Lang | Links |
